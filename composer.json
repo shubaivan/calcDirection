@@ -1,0 +1,22 @@
+{
+    "name": "12Go/calcDirection",
+    "description": "calcDirection",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shuba Ivan",
+            "email": "shuba.ivam.vikt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+
+    }
+}
